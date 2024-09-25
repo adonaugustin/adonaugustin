@@ -14,3 +14,4 @@ Skills: React / NodeJS / JavaScript / C# /  Python /  SQL / Docker
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/adonaugustin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/adon-augustin-n-9a5a90125/)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adonaugustin)](https://github.com/anuraghazra/github-readme-stats)
