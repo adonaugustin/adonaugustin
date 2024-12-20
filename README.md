@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Adon Augustin N
 #### Full-stack Software developer
-![Full-stack Software developer](https://media.licdn.com/dms/image/v2/D5603AQFFTsEq5pTBpg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1705481134856?e=1732752000&v=beta&t=ppfjoCH8iFVByeNyvmyGQY0zBwVVFuFRK-49Wy7uFXE)
+![Full-stack Software developer]
 
 I am a full-stack software developer with expertise in SCADA systems, AI development, and system administration. Currently, I work at SHJ Medical Gas Specialist (UK), where I design and develop SCADA applications and full-stack solutions using technologies such as React, NodeJS, Microsoft SQL Server, ElectronJS, and C# .NET. I also have experience in building secure, modern applications with automated testing.
 
